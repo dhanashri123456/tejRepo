@@ -6,3 +6,6 @@ Then User click on login button
 
 Scenario: validate Home Page Functinality
 Given user validate logo
+
+Scenario: validate Admin Page
+When user click on admin page
