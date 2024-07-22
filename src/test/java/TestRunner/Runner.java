@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 				(
 					features="src/test/java/Features",
 					glue="Steps",
-					dryRun=false
+					dryRun=true
 						)
 public class Runner {
 
